@@ -6,7 +6,7 @@ langsung dari ponsel dalam posisi **tegak (potret)**, dan setiap bagian menyorot
 dari tablet**.
 
 Perangkat uji: **Samsung Galaxy S20+ (SCV45), Android 12, layar 1440 × 3040 (411 dp)**.
-Tangkapan layar diambil dari DPos Kasir 1.0.0; tata letaknya tidak berubah sampai 1.4.2. Fitur
+Tangkapan layar diambil dari DPos Kasir 1.0.0; tata letaknya tidak berubah sampai 1.4.3. Fitur
 yang ditambahkan sesudahnya — pemilih bahasa, perbaikan layar masuk, perbaikan hitungan kas —
 dijelaskan di [Panduan Tablet, bagian Apa yang Baru](panduan-tablet.md#10-apa-yang-baru).
 

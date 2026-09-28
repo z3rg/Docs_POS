@@ -1,7 +1,7 @@
 # Panduan Pemakaian DPos Kasir — Tablet
 
 Panduan langkah demi langkah untuk semua peran: **Pemilik, Manajer, Supervisor, Kasir, dan Dapur**.
-Berlaku untuk **DPos Kasir 1.4.2**. Tangkapan layar diambil dari tablet Android
+Berlaku untuk **DPos Kasir 1.4.3**. Tangkapan layar diambil dari tablet Android
 (Samsung SM-X400, posisi mendatar); sebagian besar berasal dari versi 1.0.0 dan masih
 sesuai karena tata letaknya tidak berubah.
 
@@ -502,6 +502,7 @@ Kelompok pengaturan yang tersedia:
 | **Struk** | Catatan kaki struk, lebar kertas (58 mm / 80 mm), cetak otomatis setelah bayar. |
 | **Lainnya** | Pintasan ke Printer & Laci Kas, Outlet / Cabang, Backup & Restore, dan Buat Data Contoh. |
 | **Bahasa** | Bahasa antarmuka: ikut sistem, Indonesia, atau Inggris. Berlaku seketika tanpa menekan Simpan — lihat [Bahasa aplikasi](#14-bahasa-aplikasi). |
+| **Bantuan** | **Panduan Pemakaian** — membuka dokumentasi ini di browser. Satu-satunya bagian aplikasi yang butuh internet, dan hanya untuk membaca panduan. |
 | **Tentang** | Versi aplikasi dan keterangan mode luring. |
 
 Perubahan pada kolom dan sakelar baru tersimpan setelah menekan **Simpan Pengaturan**.
@@ -586,6 +587,7 @@ sejak itu dan apa yang perlu Anda kerjakan. Versi yang sedang berjalan bisa dili
 
 | Versi | Perubahan | Perlu tindakan? |
 | --- | --- | --- |
+| **1.4.3** | Menu **Bantuan** di Pengaturan, berisi tautan ke panduan ini | Tidak |
 | **1.4.2** | Perbaikan hitungan kas shift dan retur di laporan | Tidak — lihat [10.0](#100-hitungan-kas-shift-dan-retur-142) |
 | **1.4.1** | Perbaikan internal, tanpa perubahan fitur | Tidak |
 | **1.4.0** | Aplikasi dwibahasa: Indonesia dan Inggris | Tidak — bawaannya mengikuti bahasa tablet |
