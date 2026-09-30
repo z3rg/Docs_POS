@@ -1,5 +1,7 @@
 # Panduan Pemakaian DPos Kasir — Tablet
 
+[English](tablet-guide.md) · **Bahasa Indonesia**
+
 Panduan langkah demi langkah untuk semua peran: **Pemilik, Manajer, Supervisor, Kasir, dan Dapur**.
 Berlaku untuk **DPos Kasir 1.4.3**. Tangkapan layar diambil dari tablet Android
 (Samsung SM-X400, posisi mendatar); sebagian besar berasal dari versi 1.0.0 dan masih

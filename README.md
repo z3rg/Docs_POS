@@ -1,5 +1,7 @@
 # Dokumentasi DPos Kasir
 
+[English](README.en.md) · **Bahasa Indonesia**
+
 Panduan pemakaian **DPos Kasir**, aplikasi kasir (point of sale) Android untuk toko, kafe, dan
 restoran. Berlaku untuk versi **1.4.3**.
 

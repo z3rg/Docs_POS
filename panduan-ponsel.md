@@ -1,5 +1,7 @@
 # Panduan Pemakaian DPos Kasir — Ponsel Android
 
+[English](phone-guide.md) · **Bahasa Indonesia**
+
 Panduan ini adalah versi **ponsel** dari [Panduan Tablet](panduan-tablet.md). Isinya sama-sama mencakup semua
 peran — **Pemilik, Manajer, Supervisor, Kasir, dan Dapur** — tetapi seluruh tangkapan layar diambil
 langsung dari ponsel dalam posisi **tegak (potret)**, dan setiap bagian menyorot apa yang **berbeda
