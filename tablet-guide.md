@@ -3,7 +3,7 @@
 **English** · [Bahasa Indonesia](panduan-tablet.md)
 
 A step-by-step guide for every role: **Owner, Manager, Supervisor, Cashier, and Kitchen**.
-Applies to **DPos Kasir 1.4.3**. Screenshots were taken on an Android tablet
+Applies to **DPos Kasir 1.4.4**. Screenshots were taken on an Android tablet
 (Samsung SM-X400, landscape); most of them come from version 1.0.0 and are still
 accurate because the layout has not changed.
 
@@ -595,6 +595,7 @@ then and what you need to do. The running version can be seen in **Settings → 
 
 | Version | Change | Action needed? |
 | --- | --- | --- |
+| **1.4.4** | **Help (?)** icon at the top right of the sign-in screen, linking to the English guide | No |
 | **1.4.3** | **Help** menu in Settings, with a link to this guide | No |
 | **1.4.2** | Fixes to shift cash and report return calculations | No — see [10.0](#100-shift-cash-and-return-calculations-142) |
 | **1.4.1** | Internal fixes, no feature changes | No |

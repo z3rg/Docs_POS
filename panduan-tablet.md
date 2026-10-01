@@ -3,7 +3,7 @@
 [English](tablet-guide.md) · **Bahasa Indonesia**
 
 Panduan langkah demi langkah untuk semua peran: **Pemilik, Manajer, Supervisor, Kasir, dan Dapur**.
-Berlaku untuk **DPos Kasir 1.4.3**. Tangkapan layar diambil dari tablet Android
+Berlaku untuk **DPos Kasir 1.4.4**. Tangkapan layar diambil dari tablet Android
 (Samsung SM-X400, posisi mendatar); sebagian besar berasal dari versi 1.0.0 dan masih
 sesuai karena tata letaknya tidak berubah.
 
@@ -589,6 +589,7 @@ sejak itu dan apa yang perlu Anda kerjakan. Versi yang sedang berjalan bisa dili
 
 | Versi | Perubahan | Perlu tindakan? |
 | --- | --- | --- |
+| **1.4.4** | Ikon **bantuan (?)** di kanan atas halaman login, menautkan ke panduan berbahasa Inggris | Tidak |
 | **1.4.3** | Menu **Bantuan** di Pengaturan, berisi tautan ke panduan ini | Tidak |
 | **1.4.2** | Perbaikan hitungan kas shift dan retur di laporan | Tidak — lihat [10.0](#100-hitungan-kas-shift-dan-retur-142) |
 | **1.4.1** | Perbaikan internal, tanpa perubahan fitur | Tidak |

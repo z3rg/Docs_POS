@@ -9,7 +9,7 @@ taken directly on a phone in **portrait** orientation, and each section highligh
 
 Test device: **Samsung Galaxy S20+ (SCV45), Android 12, 1440 × 3040 screen (411 dp)**.
 Screenshots were taken from DPos Kasir 1.0.0 with the Indonesian interface; the layout has not
-changed up to 1.4.3. Features added since then — the language picker, sign-in screen fixes,
+changed up to 1.4.4. Features added since then — the language picker, sign-in screen fixes,
 cash calculation fixes — are described in the
 [Tablet Guide, What's New section](tablet-guide.md#10-whats-new). For the matching English and
 Indonesian terms on screen, see [App language](tablet-guide.md#14-app-language).
