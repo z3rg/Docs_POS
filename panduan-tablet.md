@@ -3,7 +3,7 @@
 [English](tablet-guide.md) · **Bahasa Indonesia**
 
 Panduan langkah demi langkah untuk semua peran: **Pemilik, Manajer, Supervisor, Kasir, dan Dapur**.
-Berlaku untuk **DPos Kasir 1.4.4**. Tangkapan layar diambil dari tablet Android
+Berlaku untuk **DPos Kasir 1.5.0**. Tangkapan layar diambil dari tablet Android
 (Samsung SM-X400, posisi mendatar); sebagian besar berasal dari versi 1.0.0 dan masih
 sesuai karena tata letaknya tidak berubah.
 
@@ -498,7 +498,8 @@ Kelompok pengaturan yang tersedia:
 | Kelompok | Isi |
 | --- | --- |
 | **Identitas Toko** | Nama, alamat, telepon, awalan nomor faktur. Nama toko juga muncul di layar masuk dan struk. |
-| **Pajak & Biaya** | Aktifkan pajak, nama dan persentase pajak, harga sudah termasuk pajak, service charge, pembulatan. |
+| **Mata Uang** | Rupiah (bawaan) atau salah satu dari 17 mata uang lain. Mengubah simbol dan format angka di layar, laporan, dan struk; nilai yang sudah tersimpan **tidak dikonversi**, jadi pilih sebelum mengisi produk. Struk cetak memakai kode (mis. `EUR`, `JPY`) bila simbolnya tidak bisa dicetak printer. |
+| **Pajak & Biaya** | Aktifkan pajak, nama dan persentase pajak, harga sudah termasuk pajak, service charge, pembulatan (boleh pecahan, mis. 0,05 untuk mata uang bersen). |
 | **Program Poin** | Belanja per 1 poin, nilai tukar 1 poin, minimum poin untuk ditukar. |
 | **Mode Bisnis** | Mode Restoran/F&B, Layar Dapur (KDS), peringatan stok menipis. Mematikan mode F&B menyembunyikan menu Manajemen Meja dan Layar Dapur. |
 | **Struk** | Catatan kaki struk, lebar kertas (58 mm / 80 mm), cetak otomatis setelah bayar. |
@@ -589,6 +590,7 @@ sejak itu dan apa yang perlu Anda kerjakan. Versi yang sedang berjalan bisa dili
 
 | Versi | Perubahan | Perlu tindakan? |
 | --- | --- | --- |
+| **1.5.0** | Pilihan **mata uang** di Pengaturan (18 mata uang); tautan Bantuan di Pengaturan kini ke panduan berbahasa Inggris | Tidak — toko lama tetap Rupiah |
 | **1.4.4** | Ikon **bantuan (?)** di kanan atas halaman login, menautkan ke panduan berbahasa Inggris | Tidak |
 | **1.4.3** | Menu **Bantuan** di Pengaturan, berisi tautan ke panduan ini | Tidak |
 | **1.4.2** | Perbaikan hitungan kas shift dan retur di laporan | Tidak — lihat [10.0](#100-hitungan-kas-shift-dan-retur-142) |

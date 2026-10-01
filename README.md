@@ -3,7 +3,7 @@
 [English](README.en.md) · **Bahasa Indonesia**
 
 Panduan pemakaian **DPos Kasir**, aplikasi kasir (point of sale) Android untuk toko, kafe, dan
-restoran. Berlaku untuk versi **1.4.4**.
+restoran. Berlaku untuk versi **1.5.0**.
 
 Dari dalam aplikasi, panduan ini bisa dibuka lewat **Pengaturan → Bantuan → Panduan Pemakaian**.
 Sejak 1.4.4, halaman login juga punya ikon **bantuan (?)** di pojok kanan atas yang membuka
