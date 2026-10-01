@@ -5,7 +5,9 @@
 User guide for **DPos Kasir**, an Android cashier (point of sale) app for shops, cafés, and
 restaurants. Applies to version **1.4.4**.
 
-From inside the app, this guide can be opened via **Settings → Help → User Guide**.
+From inside the app, the guide can be opened via **Settings → Help → User Guide**.
+Since 1.4.4, the sign-in screen also has a **help (?)** icon at the top right that opens this
+page — anyone can use it, even before signing in.
 
 ![Owner home screen on a tablet](img/tablet/04-owner-beranda.png)
 
